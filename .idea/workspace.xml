@@ -81,7 +81,7 @@
       <file leaf-file-name="Capfile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Capfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="28" selection-start="394" selection-end="394" vertical-scroll-proportion="0.47457626">
+            <state line="2" column="33" selection-start="63" selection-end="63" vertical-scroll-proportion="0.06779661">
               <folding />
             </state>
           </provider>
@@ -983,7 +983,11 @@
       <created>1349132215955</created>
       <updated>1349132215955</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added capistrano&#10;">
+      <created>1349132920194</created>
+      <updated>1349132920194</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1171,7 +1175,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Capfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="28" selection-start="394" selection-end="394" vertical-scroll-proportion="0.47457626">
+        <state line="2" column="33" selection-start="63" selection-end="63" vertical-scroll-proportion="0.06779661">
           <folding />
         </state>
       </provider>
