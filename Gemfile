@@ -9,7 +9,8 @@ gem 'sqlite3'
 gem 'rake', '0.9.3.beta.1'
 gem 'twitter-bootstrap-rails'
 gem 'flickraw'
-
+gem 'capistrano'
+gem 'capistrano-ext'
 
 # Gems used only for assets and not required
 # in production environments by default.
