@@ -6,7 +6,7 @@ gem 'rails', '3.2.8'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 gem 'sqlite3'
-gem 'rake', '0.9.3.beta.1'
+gem 'rake', '0.9.2.2'
 gem 'twitter-bootstrap-rails'
 gem 'flickraw'
 gem 'capistrano'
